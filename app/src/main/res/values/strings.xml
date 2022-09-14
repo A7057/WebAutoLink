@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WebAutolink</string>
+    <string name="activity_link"><p>You will ensure need to use you have included references to all of the Activities you will be using and navigating between in your manifest file.\n
+        This is done using the activity tag inside the application tag of the Android Manifest file.\n
+    By default the hyperlinks shown in your Android TextView widget will be displayed in a dark pink text color with an underline.\n
+You can change the default color of the text of the hyperlink using the setLinkTextColor(…) method on the TextView.\n
+See the code sample of the MainActivity.kt Activity class file below setting the color of the hyperlink in the TextView to blue using setLinkTextColor(…)
+    You will ensure need to use you have included references to all of the Activities you will be using and navigating between in your manifest file.\n
+        This is done using the activity tag inside the application tag of the Android Manifest file.\n
+    By default the hyperlinks shown in your Android TextView widget will be displayed in a dark pink text color with an underline.\n
+You can change the default color of the text of the hyperlink using the setLinkTextColor(…) method on the TextView.\n
+See the code sample of the MainActivity.kt Activity class file below setting the color of the hyperlink in the TextView to blue using setLinkTextColor(…)
+    You will ensure need to use you have included references to all of the Activities you will be using and navigating between in your manifest file.\n
+        This is done using the activity tag inside the application tag of the Android Manifest file.\n
+    By default the hyperlinks shown in your Android TextView widget will be displayed in a dark pink text color with an underline.\n
+You can change the default color of the text of the hyperlink using the setLinkTextColor(…) method on the TextView.\n
+See the code sample of the MainActivity.kt Activity class file below setting the color of the hyperlink in the TextView to blue using setLinkTextColor(…)</p><a href="https://google.com">LearnToDroid.com</a></string>
+
+</resources>
